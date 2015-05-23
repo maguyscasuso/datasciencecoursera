@@ -60,7 +60,9 @@ For more details on the transformations read README file.
 #### Resulting data set 
 
 180 obs. of  69 variables
-First column contains the names of the variables.
+
+First row contains the names of the variables.
+
 The list of variable and the variable data type is listed below.
  
  * Activity                   : Factor w/ 6 levels "WALKING ,  WALKING_DOWNSTAIRS , WALKING_UPSTAIRS, SITTING , STANDING , LAYING "
